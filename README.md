@@ -1,4 +1,4 @@
-# motion-similarity
+# Stylized Motion Capture Classification 
 A Python project for learning a perceptually-accurate latent space for motion synthesis. This project defines a perceptual motion similarity metric and trains models on motion capture data features. To this end it employs a convolutional neural network (CNN) and an adaption of the triplet similarity network; these respectively allow for the generation of style labels (i.e., laban efforts) and capture user study perception-based similarity differences.  
 
 Final proposed network architecture is as follows: 
